@@ -5,7 +5,7 @@
 
 <img align='right' src='https://raw.githubusercontent.com/LucasVSCS/my-portfolio/master/img/vscsLogo.png' width='200"'>
 
-Trabalhando na área de desenvolvimento web a quase 3 anos, estou sempre me atualizando e aprendendo cada dia mais sobre as tecnologias em ascensão.
+Trabalhando na área de desenvolvimento web a mais de 4 anos, estou sempre me atualizando e aprendendo cada dia mais sobre as tecnologias em ascensão.
 
 Atualmente com foco no PHP e seus frameworks para back-end, sou também fascinado no mundo do front-end e gosto de desenvolver interfaces principalmente com React!
 
