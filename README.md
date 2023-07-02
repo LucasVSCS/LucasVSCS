@@ -1,9 +1,7 @@
 ## <img src="https://www.clipartmax.com/png/full/376-3762628_professor-farnsworth-professor-farnsworth.png" width="30px">  Good News, Everyone! <img src="https://www.clipartmax.com/png/full/376-3762628_professor-farnsworth-professor-farnsworth.png" width="30px"> 
-### *Lucas Vinicius, 21, Dev. Fullstack, entusiasta do mundo da tecnologia e amante de jogos RPG.* <img src="https://giffiles.alphacoders.com/146/14693.gif" width="60px">
+### *Lucas Vinicius, 23, Dev. Fullstack, entusiasta do mundo da tecnologia e amante de jogos RPG.* <img src="https://giffiles.alphacoders.com/146/14693.gif" width="60px">
 
 <a href="https://lucasvscs.dev.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a><a href="https://steamcommunity.com/id/VSCS" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a><a href="https://www.instagram.com/lucasvscs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="mailto:lucasvscs@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a><a href="https://www.linkedin.com/in/lucasvscs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://t.me/lucasvscs" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-
-<img align='right' src='https://raw.githubusercontent.com/LucasVSCS/my-portfolio/master/img/vscsLogo.png' width='200"'>
 
 Trabalhando na área de desenvolvimento web a mais de 4 anos, estou sempre me atualizando e aprendendo cada dia mais sobre as tecnologias em ascensão.
 
