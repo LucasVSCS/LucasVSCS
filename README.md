@@ -1,5 +1,5 @@
 ## <img src="https://www.clipartmax.com/png/full/376-3762628_professor-farnsworth-professor-farnsworth.png" width="30px">  Good News, Everyone! <img src="https://www.clipartmax.com/png/full/376-3762628_professor-farnsworth-professor-farnsworth.png" width="30px"> 
-### *Lucas Vinicius, 23, Dev. Fullstack, entusiasta do mundo da tecnologia e amante de jogos RPG.* <img src="https://giffiles.alphacoders.com/146/14693.gif" width="60px">
+### *Lucas Vinicius, 25, Dev. Fullstack, entusiasta do mundo da tecnologia e amante de jogos RPG.* <img src="https://giffiles.alphacoders.com/146/14693.gif" width="60px">
 
 </a><a href="https://steamcommunity.com/id/VSCS" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a><a href="https://www.linkedin.com/in/lucasvscs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -19,7 +19,6 @@ Além disso, gosto muito do mundo Linux e de trabalhar com bancos de dados.
 
 ## :rocket: Metas :rocket:	
 
-- Aprender mais sobre DevOps
 - Conseguir novas certificações
 - Aprimorar o inglês
 
